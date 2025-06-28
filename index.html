@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+<head>
+    <title>HematoVision</title>
+</head>
+<body>
+    <h1>Upload a Blood Cell Image</h1>
+    <form method="POST" enctype="multipart/form-data">
+        <input type="file" name="file">
+        <input type="submit" value="Upload">
+    </form>
+
+    {% if label %}
+        <h2>Prediction: <strong>{{ label }}</strong></h2>
+        <img src="{{ url_for('uploaded_file', filename=filename) }}" alt="Uploaded Image" width="300">
+    {% endif %}
+</body>
+</html>
