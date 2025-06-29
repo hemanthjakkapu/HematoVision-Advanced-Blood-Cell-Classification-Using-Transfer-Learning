@@ -11,4 +11,4 @@
 
 ## 🎬 Demo Video
 
-[Click here to watch the video demo](https://drive.google.com/file/d/1Lph0nAfjeHFfvqU1YHvJjLsdSvlHg6Z0/view?usp=drivesdk)
+[Click here to watch the video demo](https://drive.google.com/file/d/11shcn0OCwqvOesu5QFBT9HnAc0Sr2AQd/view?usp=drivesdk)
